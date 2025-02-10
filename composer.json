@@ -1,10 +1,10 @@
 {
-    "name": "test/packeg",
+    "name": "saadany/packeg",
     "description": "dp class",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Test\\Packeg\\": "src/"
+            "saadany\\Packeg\\": "src/"
         }
     },
     "authors": [

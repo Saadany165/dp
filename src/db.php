@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Packeg;
+namespace saadany\Packeg;
 
 class db
 {
