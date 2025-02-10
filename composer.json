@@ -1,0 +1,17 @@
+{
+    "name": "test/packeg",
+    "description": "dp class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Test\\Packeg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saadany",
+            "email": "saadany165@gmail.com"
+        }
+    ],
+    "require": {}
+}
